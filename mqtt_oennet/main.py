@@ -12,14 +12,14 @@ replay_state_code = None
 token = None
 
 ssid = "405"
-password = "15980997653"
+password = ""
 
 url = "mqtts.heclouds.com"
 port = 1883
 
 DeviceName = "stm32"  # 设备ID
 Productid = "xsH8t9odKK"  # 产品ID
-access_key = "dlZZcTBYVkF4emwyRElrTXJoVENvNlBHY3cwdVE1ajI="  # 秘钥
+access_key = "="  # 秘钥
 
 
 
