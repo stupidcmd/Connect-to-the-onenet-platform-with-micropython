@@ -5,9 +5,9 @@ from urllib.parse import quote
 import requests
 import json
 # 用户ID(用户头像->访问权限->user_id)
-user_id = '401337'
+user_id = ''
 # 访问密钥(用户头像->访问权限->access_key)
-access_key = "RneHqQ12ZCzERs+AFB1A3ZxcTqxPvrjAiCRumsSunMCK9+4DZD/jqShWGRvkiWXUOOM06Eno6xStBMl4z9zxrg=="
+access_key = "++4DZD/=="
 #产品id(产品->产品ID)
 product_id = "xsH8t9odKK"
 #设备名称
